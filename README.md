@@ -9,6 +9,6 @@ For Google Colab, copy the data as /content/drive/My Drive/EC523Project/Resize_a
 
 Models: UNett_ASPP and TransUNet
 
-Dataset: training: 100, validation: 30, testing: 70
+Dataset: LiTS17 https://www.kaggle.com/datasets/javariatahir123/lits17-liver-tumor-segmentation?select=CT_Mask, training: 100, validation: 30, testing: 70
 
 Loss: Dice Loss
